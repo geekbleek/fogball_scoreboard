@@ -1,0 +1,14 @@
+{
+  "name": "fogball_scoreboard",
+  "version": "1.0.0",
+  "description": "Fogball Scoreboard for DevNet Zone Foosball Table",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rethinkdb": "^2.3.3"
+  }
+}
